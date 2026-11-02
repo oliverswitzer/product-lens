@@ -1,0 +1,5 @@
+# Built output of the template's own starter model; a scaffolded lens commits its index.html.
+skills/lens/template/index.html
+.DS_Store
+__pycache__/
+*.mp4
